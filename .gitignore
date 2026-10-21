@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+session-headers*.json
+*.private.json
+audit-results/
